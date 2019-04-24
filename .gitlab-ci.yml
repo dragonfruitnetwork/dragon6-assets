@@ -5,4 +5,5 @@ before_script:
 
 publish:
   script:
-    - firebase deploy --token ${echo -n $B64_FIREBASE_TOKEN | base64 -d} --project "dragon6-224813"
+    - local TOKEN=(echo -n $B64_FIREBASE_TOKEN | base64 -d)
+    - firebase deploy --token $TOKEN --project "dragon6-224813"
