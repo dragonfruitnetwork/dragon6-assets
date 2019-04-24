@@ -1,8 +1,7 @@
 image: node
 
-install_tools:
-  script:
-    - npm install -g firebase-tools
+before_script:
+  - npm install -g firebase-tools
 
 publish:
   script:
