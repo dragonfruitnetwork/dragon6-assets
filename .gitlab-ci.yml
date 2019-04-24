@@ -1,0 +1,9 @@
+image: node
+
+install_tools:
+  script:
+    - npm install -g firebase-tools
+
+publish:
+  script:
+    - firebase deploy --token ${echo -n $B64_FIREBASE_TOKEN | base64 -d} --project "dragon6-224813"
