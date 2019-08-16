@@ -6,7 +6,7 @@ This repo contains the assets used by the Dragon6 Website and Mobile apps. It is
 
 ## Assets
 ### Rank Icons
-The ranked icons were taken from the official Rainbow Six Servers in August 2018. There are PNG and SVG versions found under `/svg` and `/png` with the filename following `{rankid}.{extension}` 
+The ranked icons were taken from the official Rainbow Six Servers in August 2018. There are PNG and SVG versions found under `/rank/` with the filename following `{rankid}.{png/svg}` 
 
 Note: Unranked = `0` and Diamond = `20` (the rest can be filled in)
 
