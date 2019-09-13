@@ -9,9 +9,10 @@ This repo contains the assets used by the Dragon6 Website and Mobile apps. It is
 The ranked icons were taken from the official Rainbow Six Servers in August 2018. There are PNG and SVG versions found under `/rank/` with the filename following `{rankid}.{png/svg}` 
 
 Note: Unranked = `0` and Diamond = `20` (the rest can be filled in)
+> Rank `21` is the new Champions Rank, a new rank introduced in Y4S3
 
 We modified the unranked icon, as we were pretty sure the one on the Ubisoft site was incorrect.
-> As of May 2019, some of the icons have changed, and are waiting for a higher usage before moving to find new ones.
+> We have only found the new ranked icons as PNG files, so we will be using them for the time being. If you use the svg ones we recommend switching asap.
 
 ### Backgrounds
 Backgrounds are found on the Dragon6 Homepage, and are usually the opening screen from the current season in-game. These are downloaded from the fan kit, and compressed from ~20MB to 400kb or less, then put in the `/backgrounds` folder with their name as `{seasonid}.jpg`
