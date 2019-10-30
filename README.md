@@ -6,13 +6,12 @@ This repo contains the assets used by the Dragon6 Website and Mobile apps. It is
 
 ## Assets
 ### Rank Icons
-The ranked icons were taken from the official Rainbow Six Servers in August 2018. There are PNG and SVG versions found under `/rank/` with the filename following `{rankid}.{png/svg}` 
+The ranked icons were taken from the official Rainbow Six Servers in August 2018. There are ~~PNG and~~ SVG versions found under `/rank` with the filename following `{v1|2}/{rankid}.svg` 
 
-Note: Unranked = `0` and Diamond = `20` (the rest can be filled in)
-> Rank `21` is the new Champions Rank, a new rank introduced in Y4S3
+Note: Icons match the values found [here](https://github.com/dragonfruitnetwork/Dragon6-API/blob/248c655fadf762c9f4c3a053ad0171ecf885d25e/Dragon6-API/References.cs#L24) for `/v1` and [here](https://github.com/dragonfruitnetwork/Dragon6-API/blob/248c655fadf762c9f4c3a053ad0171ecf885d25e/Dragon6-API/References.cs#L58) for `/v2`
+> For Seasons with an ID less than 15 (14 or less), use `/v1` and for 15 and over, use `/v2`
 
 We modified the unranked icon, as we were pretty sure the one on the Ubisoft site was incorrect.
-> We have only found the new ranked icons as PNG files, so we will be using them for the time being. If you use the svg ones we recommend switching asap.
 
 ### Backgrounds
 Backgrounds are found on the Dragon6 Homepage, and are usually the opening screen from the current season in-game. These are downloaded from the fan kit, and compressed from ~20MB to 400kb or less, then put in the `/backgrounds` folder with their name as `{seasonid}.jpg`
@@ -21,12 +20,11 @@ Backgrounds are found on the Dragon6 Homepage, and are usually the opening scree
 It's our logo, there isn't really much more to say...
 
 ### Operator Icons
-These icons are resized and compressed editions of [Marcopixel's operator icons](https://github.com/marcopixel/r6-operatoricons/tree/master/static/icons/png)
-> These are resized to 1400x1400 and used predominantly in the mobile app. This value may change in the near future to allow faster icon loading in the mobile app.
-These are licenced to us under the `Creative Commons Attribution 4.0 International` licence
+These icons are resized ~~and compressed~~ editions of [Marcopixel's operator icons](https://github.com/marcopixel/r6-operatoricons/tree/master/static/icons/png)
+> These are resized to 300x300 (and kept as `PNG` files) and used predominantly in the mobile app. This value may change in the near future to allow faster icon loading in the mobile app.
+These are licenced under the `Creative Commons Attribution 4.0 International` licence
 
 ## Contributing
-
 If we've missed something or you have an improvement, create an issue or fork and merge it back with your proposed changes. 
 
 ## Using our assets (it's free to setup)
