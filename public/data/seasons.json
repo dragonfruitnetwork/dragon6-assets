@@ -1,0 +1,86 @@
+[
+  {
+    "id": 5,
+    "operation": "Velvet Shell",
+    "year": 2,
+    "season": 1,
+    "accent": "#673ab7"
+  },
+  {
+    "id": 6,
+    "operation": "Health",
+    "year": 2,
+    "season": 2,
+    "accent": "#007bff"
+  },
+  {
+    "id": 7,
+    "operation": "Blood Orchid",
+    "year": 2,
+    "season": 3,
+    "accent": "#dc3545"
+  },
+  {
+    "id": 8,
+    "operation": "White Noise",
+    "year": 2,
+    "season": 4,
+    "accent": "#607d8b"
+  },
+  {
+    "id": 9,
+    "operation": "Chimera",
+    "year": 3,
+    "season": 1,
+    "accent": "#ff9800"
+  },
+  {
+    "id": 10,
+    "operation": "Para Bellum",
+    "year": 3,
+    "season": 2,
+    "accent": "#28a745"
+  },
+  {
+    "id": 11,
+    "operation": "Grim Sky",
+    "year": 3,
+    "season": 3,
+    "accent": "#607d8b"
+  },
+  {
+    "id": 12,
+    "operation": "Wind Bastion",
+    "year": 3,
+    "season": 4,
+    "accent": "#d58749"
+  },
+  {
+    "id": 13,
+    "operation": "Burnt Horizon",
+    "year": 4,
+    "season": 1,
+    "accent": "#e70247"
+  },
+  {
+    "id": 14,
+    "operation": "Phantom Sight",
+    "year": 4,
+    "season": 2,
+    "accent": "#2D438B"
+  },
+  {
+    "id": 15,
+    "operation": "Ember Rise",
+    "year": 4,
+    "season": 3,
+    "accent": "#344F24"
+  },
+  {
+    "id": 16,
+    "operation": "Shifting Tides",
+    "year": 4,
+    "season": 4,
+    "accent": "#3f51b5"
+  }
+]
