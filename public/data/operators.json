@@ -550,8 +550,8 @@
     "sub": "Y4S3 - Ember Rise"
   },
   {
-    "name": "Wamai",
-    "img": "https://d6static.dragonfruit.network/ops/wamai.png",
+    "name": "Kali",
+    "img": "https://d6static.dragonfruit.network/ops/kali.png",
     "index": "2:17",
     "actn": "operatorpvp_kali_gadgetdestroywithexplosivelance:2:17",
     "phrase": "Gadgets Destroyed with the LV",
@@ -560,8 +560,8 @@
     "sub": "Y4S4 - Shifting Tides"
   },
   {
-    "name": "Kali",
-    "img": "https://d6static.dragonfruit.network/ops/kali.png",
+    "name": "Wamai",
+    "img": "https://d6static.dragonfruit.network/ops/wamai.png",
     "index": "3:17",
     "actn": "operatorpvp_wamai_gadgetdestroybymagnet:3:17",
     "phrase": "Projectiles Captured",
