@@ -82,5 +82,12 @@
     "year": 4,
     "season": 4,
     "accent": "#3f51b5"
+  },
+  {
+    "id": 17,
+    "operation": "Void Edge",
+    "year": 5,
+    "season": 1,
+    "accent": "#313c70"
   }
 ]
