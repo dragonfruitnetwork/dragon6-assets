@@ -569,4 +569,25 @@
     "type": 2,
     "sub": "Y4S4 - Shifting Tides"
   }
+  ,
+  {
+    "name": "Iana",
+    "img": "https://d6static.dragonfruit.network/ops/iana.png",
+    "index": "2:18",
+    "actn": "todo",
+    "phrase": "todo",
+    "org": "REU",
+    "type": 1,
+    "sub": "Y5S1 - Void Edge"
+  },
+  {
+    "name": "Oryx",
+    "img": "https://d6static.dragonfruit.network/ops/Oryx.png",
+    "index": "todo",
+    "actn": "todo",
+    "phrase": "todo",
+    "org": "todo",
+    "type": 2,
+    "sub": "Y5S1 - Void Edge"
+  }
 ]
