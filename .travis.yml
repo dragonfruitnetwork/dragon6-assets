@@ -5,8 +5,11 @@ node_js:
 before_script:
   - npm install -g firebase-tools
 script:
-  - TOKEN="$(echo -n $B64_FIREBASE_TOKEN | base64 -d)"
-  - firebase deploy --token $TOKEN --project "dragon6-224813"
-repo:
+  - |
+    if [ $TRAVIS_PULL_REQUEST == "false" && $TRAVIS_REPO_SLUG = "dragonfruitnetwork/Dragon6-Assets"]; then
+      TOKEN="$(echo -n $B64_FIREBASE_TOKEN | base64 -d)"
+      firebase deploy --token $TOKEN --project "dragon6-224813"
+    fi
+branches:
   only:
-    on: dragonfruitnetwork/Dragon6-Assets
+    - master
