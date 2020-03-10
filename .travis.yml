@@ -8,4 +8,5 @@ script:
   - TOKEN="$(echo -n $B64_FIREBASE_TOKEN | base64 -d)"
   - firebase deploy --token $TOKEN --project "dragon6-224813"
 repo:
-  on: dragonfruitnetwork/Dragon6-Assets
+  only:
+    on: dragonfruitnetwork/Dragon6-Assets
