@@ -568,17 +568,6 @@
     "org": "NIGHTHAVEN",
     "type": 2,
     "sub": "Y4S4 - Shifting Tides"
-  }
-  ,
-  {
-    "name": "Iana",
-    "img": "https://d6static.dragonfruit.network/ops/iana.png",
-    "index": "2:18",
-    "actn": "operatorpvp_iana_killsafterreplicator:2:19",
-    "phrase": "Kills after using Replicator",
-    "org": "REU",
-    "type": 1,
-    "sub": "Y5S1 - Void Edge"
   },
   {
     "name": "Oryx",
@@ -589,5 +578,16 @@
     "org": "GIGR (Unofficially)",
     "type": 2,
     "sub": "Y5S1 - Void Edge"
+  }, 
+  {
+    "name": "Iana",
+    "img": "https://d6static.dragonfruit.network/ops/iana.png",
+    "index": "2:19",
+    "actn": "operatorpvp_iana_killsafterreplicator:2:19",
+    "phrase": "Kills after using Replicator",
+    "org": "REU",
+    "type": 1,
+    "sub": "Y5S1 - Void Edge"
   }
+  
 ]
