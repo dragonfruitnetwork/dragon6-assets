@@ -424,7 +424,7 @@
     "img": "https://d6static.dragonfruit.network/ops/finka.png",
     "index": "4:E",
     "actn": "operatorpvp_rush_adrenalinerush:4:E",
-    "phrase": "Adrenal Surge Bonus",
+    "phrase": "Adrenal Surge Bonuses",
     "org": "CBRN THREAT UNIT",
     "type": 1,
     "sub": "Y3S1 - Chimera"
@@ -504,7 +504,7 @@
     "img": "https://d6static.dragonfruit.network/ops/gridlock.png",
     "index": "3:12",
     "actn": "operatorpvp_gridlock_traxdeployed:3:12",
-    "phrase": "Trax Deployed",
+    "phrase": "Trax Stingers Deployed",
     "org": "SASR",
     "type": 1,
     "sub": "Y4S1 - Burnt Horizon"
@@ -534,7 +534,7 @@
     "img": "https://d6static.dragonfruit.network/ops/goyo.png",
     "index": "2:15",
     "actn": "operatorpvp_goyo_volcandetonate:2:15",
-    "phrase": "Volcán Detonated by Your Team",
+    "phrase": "Volcáns Detonated by Your Team",
     "org": "FUERZAS ESPECIALES",
     "type": 2,
     "sub": "Y4S3 - Ember Rise"
@@ -574,8 +574,8 @@
     "name": "Iana",
     "img": "https://d6static.dragonfruit.network/ops/iana.png",
     "index": "2:18",
-    "actn": "todo",
-    "phrase": "todo",
+    "actn": "operatorpvp_iana_killsafterreplicator:2:19",
+    "phrase": "Kills after using Replicator",
     "org": "REU",
     "type": 1,
     "sub": "Y5S1 - Void Edge"
@@ -583,10 +583,10 @@
   {
     "name": "Oryx",
     "img": "https://d6static.dragonfruit.network/ops/Oryx.png",
-    "index": "todo",
-    "actn": "todo",
-    "phrase": "todo",
-    "org": "todo",
+    "index": "2:18",
+    "actn": "operatorpvp_oryx_killsafterdash:2:18",
+    "phrase": "Kills after Remah Dashes",
+    "org": "GIGR (Unofficially)",
     "type": 2,
     "sub": "Y5S1 - Void Edge"
   }
