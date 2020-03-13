@@ -571,7 +571,7 @@
   },
   {
     "name": "Oryx",
-    "img": "https://d6static.dragonfruit.network/ops/Oryx.png",
+    "img": "https://d6static.dragonfruit.network/ops/oryx.png",
     "index": "2:18",
     "actn": "operatorpvp_oryx_killsafterdash:2:18",
     "phrase": "Kills after Remah Dashes",
