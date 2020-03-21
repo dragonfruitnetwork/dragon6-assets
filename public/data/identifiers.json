@@ -1,18 +1,18 @@
 [
   {
-    "target": 0, //default
+    "target": 0,
     "identifier": "39baebad-39e5-4552-8c25-2c9b919064e2" 
   },
   {
-    "target": 1, //account lookup
+    "target": 1,
     "identifier": null
   },
   {
-    "target": 2, //stats
-    "identifier": "e76a8fcd-edcf-4cdb-a1ed-63ae85f73838" //random id seems to work
+    "target": 2,
+    "identifier": "e76a8fcd-edcf-4cdb-a1ed-63ae85f73838"
   },
   {
-    "target": 3, //identity
+    "target": 3,
     "identifier": null
   },
 ]
