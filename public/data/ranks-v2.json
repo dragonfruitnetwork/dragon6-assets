@@ -1,0 +1,167 @@
+[
+  {
+    "id": 0,
+    "url": "/rank/v2/0.svg",
+    "name": "Unranked"
+  },
+  {
+    "id": 1,
+    "url": "/rank/v2/1.svg",
+    "mmr_min": 0,
+    "mmr_max": 1199,
+    "name": "Copper 5"
+  },
+  {
+    "id": 2,
+    "url": "/rank/v2/2.svg",
+    "mmr_min": 1200,
+    "mmr_max": 1299,
+    "name": "Copper 4"
+  },
+  {
+    "id": 3,
+    "url": "/rank/v2/3.svg",
+    "mmr_min": 1300,
+    "mmr_max": 1399,
+    "name": "Copper 3"
+  },
+  {
+    "id": 4,
+    "url": "/rank/v2/4.svg",
+    "mmr_min": 1400,
+    "mmr_max": 1499,
+    "name": "Copper 2"
+  },
+  {
+    "id": 5,
+    "url": "/rank/v2/5.svg",
+    "mmr_min": 1500,
+    "mmr_max": 1599,
+    "name": "Copper 1"
+  },
+  {
+    "id": 6,
+    "url": "/rank/v2/6.svg",
+    "mmr_min": 1600,
+    "mmr_max": 1699,
+    "name": "Bronze 5"
+  },
+  {
+    "id": 7,
+    "url": "/rank/v2/7.svg",
+    "mmr_min": 1700,
+    "mmr_max": 1799,
+    "name": "Bronze 4"
+  },
+  {
+    "id": 8,
+    "url": "/rank/v2/8.svg",
+    "mmr_min": 1800,
+    "mmr_max": 1899,
+    "name": "Bronze 3"
+  },
+  {
+    "id": 9,
+    "url": "/rank/v2/9.svg",
+    "mmr_min": 1900,
+    "mmr_max": 1999,
+    "name": "Bronze 2"
+  },
+  {
+    "id": 10,
+    "url": "/rank/v2/10.svg",
+    "mmr_min": 2000,
+    "mmr_max": 2099,
+    "name": "Bronze 1"
+  },
+  {
+    "id": 11,
+    "url": "/rank/v2/11.svg",
+    "mmr_min": 2100,
+    "mmr_max": 2199,
+    "name": "Silver 5"
+  },
+  {
+    "id": 12,
+    "url": "/rank/v2/12.svg",
+    "mmr_min": 2200,
+    "mmr_max": 2299,
+    "name": "Silver 4"
+  },
+  {
+    "id": 13,
+    "url": "/rank/v2/13.svg",
+    "mmr_min": 2300,
+    "mmr_max": 2399,
+    "name": "Silver 3"
+  },
+  {
+    "id": 14,
+    "url": "/rank/v2/14.svg",
+    "mmr_min": 2400,
+    "mmr_max": 2499,
+    "name": "Silver 2"
+  },
+  {
+    "id": 15,
+    "url": "/rank/v2/15.svg",
+    "mmr_min": 2500,
+    "mmr_max": 2599,
+    "name": "Silver 1"
+  },
+  {
+    "id": 16,
+    "url": "/rank/v2/16.svg",
+    "mmr_min": 2600,
+    "mmr_max": 2799,
+    "name": "Gold 3"
+  },
+  {
+    "id": 17,
+    "url": "/rank/v2/17.svg",
+    "mmr_min": 2800,
+    "mmr_max": 2999,
+    "name": "Gold 2"
+  },
+  {
+    "id": 18,
+    "url": "/rank/v2/18.svg",
+    "mmr_min": 3000,
+    "mmr_max": 3199,
+    "name": "Gold 1"
+  },
+  {
+    "id": 19,
+    "url": "/rank/v2/19.svg",
+    "mmr_min": 3200,
+    "mmr_max": 3599,
+    "name": "Platinum 3"
+  },
+  {
+    "id": 20,
+    "url": "/rank/v2/20.svg",
+    "mmr_min": 3600,
+    "mmr_max": 3999,
+    "name": "Platinum 2"
+  },
+  {
+    "id": 21,
+    "url": "/rank/v2/21.svg",
+    "mmr_min": 4000,
+    "mmr_max": 4399,
+    "name": "Platinum 1"
+  },
+  {
+    "id": 22,
+    "url": "/rank/v2/22.svg",
+    "mmr_min": 4400,
+    "mmr_max": 4999,
+    "name": "Diamond"
+  },
+  {
+    "id": 23,
+    "url": "/rank/v2/23.svg",
+    "mmr_min": 5000,
+    "name": "Champion"
+  }
+]
