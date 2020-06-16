@@ -1,27 +1,5 @@
 [
   {
-    "name": "Smoke",
-    "img": "https://d6static.dragonfruit.network/ops/smoke.png",
-    "index": "2:1",
-    "actn": "operatorpvp_smoke_poisongaskill:2:1",
-    "phrase": "Poison gas kills",
-    "org": "SAS",
-    "type": 2,
-    "sub": "Pathfinders",
-    "ord": 1
-  },
-  {
-    "name": "Mute",
-    "img": "https://d6static.dragonfruit.network/ops/mute.png",
-    "index": "3:1",
-    "actn": "operatorpvp_mute_gadgetjammed:3:1",
-    "phrase": "Gadgets Jammed",
-    "org": "SAS",
-    "type": 2,
-    "sub": "Pathfinders",
-    "ord": 2
-  },
-  {
     "name": "Sledge",
     "img": "https://d6static.dragonfruit.network/ops/sledge.png",
     "index": "4:1",
@@ -30,7 +8,7 @@
     "org": "SAS",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 3
+    "ord": 1
   },
   {
     "name": "Thatcher",
@@ -41,25 +19,47 @@
     "org": "SAS",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 4
+    "ord": 2
   },
   {
-    "name": "Castle",
-    "img": "https://d6static.dragonfruit.network/ops/castle.png",
-    "index": "2:2",
-    "actn": "operatorpvp_castle_kevlarbarricadedeployed:2:2",
-    "phrase": "Armor Panels Deployed",
-    "org": "FBI SWAT",
+    "name": "Smoke",
+    "img": "https://d6static.dragonfruit.network/ops/smoke.png",
+    "index": "2:1",
+    "actn": "operatorpvp_smoke_poisongaskill:2:1",
+    "phrase": "Poison gas kills",
+    "org": "SAS",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 5
+    "ord": 3
   },
+  {
+    "name": "Mute",
+    "img": "https://d6static.dragonfruit.network/ops/mute.png",
+    "index": "3:1",
+    "actn": "operatorpvp_mute_gadgetjammed:3:1",
+    "phrase": "Gadgets Jammed",
+    "org": "SAS",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 4
+  }
   {
     "name": "Ash",
     "img": "https://d6static.dragonfruit.network/ops/ash.png",
     "index": "3:2",
     "actn": "operatorpvp_ash_bonfirewallbreached:3:2",
     "phrase": "Destructions by Breaching Round",
+    "org": "FBI SWAT",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 5
+  },
+  {
+    "name": "Thermite",
+    "img": "https://d6static.dragonfruit.network/ops/thermite.png",
+    "index": "5:2",
+    "actn": "operatorpvp_thermite_reinforcementbreached:5:2",
+    "phrase": "Reinforcements Breached by Exo-Thermic Charge",
     "org": "FBI SWAT",
     "type": 1,
     "sub": "Pathfinders",
@@ -77,37 +77,15 @@
     "ord": 7
   },
   {
-    "name": "Thermite",
-    "img": "https://d6static.dragonfruit.network/ops/thermite.png",
-    "index": "5:2",
-    "actn": "operatorpvp_thermite_reinforcementbreached:5:2",
-    "phrase": "Reinforcements Breached by Exo-Thermic Charge",
+    "name": "Castle",
+    "img": "https://d6static.dragonfruit.network/ops/castle.png",
+    "index": "2:2",
+    "actn": "operatorpvp_castle_kevlarbarricadedeployed:2:2",
+    "phrase": "Armor Panels Deployed",
     "org": "FBI SWAT",
-    "type": 1,
+    "type": 2,
     "sub": "Pathfinders",
     "ord": 8
-  },
-  {
-    "name": "Doc",
-    "img": "https://d6static.dragonfruit.network/ops/doc.png",
-    "index": "2:3",
-    "actn": "operatorpvp_doc_teammaterevive:2:3",
-    "phrase": "Teammates Revived",
-    "org": "GIGN",
-    "type": 2,
-    "sub": "Pathfinders",
-    "ord": 9
-  },
-  {
-    "name": "Rook",
-    "img": "https://d6static.dragonfruit.network/ops/rook.png",
-    "index": "3:3",
-    "actn": "operatorpvp_rook_armortakenteammate:3:3",
-    "phrase": "Armor Plates Taken by Teammates",
-    "org": "GIGN",
-    "type": 2,
-    "sub": "Pathfinders",
-    "ord": 10
   },
   {
     "name": "Twitch",
@@ -118,7 +96,7 @@
     "org": "GIGN",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 11
+    "ord": 9
   },
   {
     "name": "Montagne",
@@ -128,6 +106,28 @@
     "phrase": "Bullets Blocked by Extended Shield",
     "org": "GIGN",
     "type": 1,
+    "sub": "Pathfinders",
+    "ord": 10
+  },
+  {
+    "name": "Doc",
+    "img": "https://d6static.dragonfruit.network/ops/doc.png",
+    "index": "2:3",
+    "actn": "operatorpvp_doc_teammaterevive:2:3",
+    "phrase": "Teammates Revived",
+    "org": "GIGN",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 11
+  },
+  {
+    "name": "Rook",
+    "img": "https://d6static.dragonfruit.network/ops/rook.png",
+    "index": "3:3",
+    "actn": "operatorpvp_rook_armortakenteammate:3:3",
+    "phrase": "Armor Plates Taken by Teammates",
+    "org": "GIGN",
+    "type": 2,
     "sub": "Pathfinders",
     "ord": 12
   },
