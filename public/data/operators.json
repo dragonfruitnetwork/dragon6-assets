@@ -15,7 +15,7 @@
     "img": "https://d6static.dragonfruit.network/ops/mute.png",
     "index": "3:1",
     "actn": "operatorpvp_mute_gadgetjammed:3:1",
-    "phrase": "Gadget Jammed",
+    "phrase": "Gadgets Jammed",
     "org": "SAS",
     "type": 2,
     "sub": "Pathfinders",
@@ -26,7 +26,7 @@
     "img": "https://d6static.dragonfruit.network/ops/sledge.png",
     "index": "4:1",
     "actn": "operatorpvp_sledge_hammerhole:4:1",
-    "phrase": "Destruction by Breaching Hammer",
+    "phrase": "Items destructed by Breaching Hammer",
     "org": "SAS",
     "type": 1,
     "sub": "Pathfinders",
@@ -59,7 +59,7 @@
     "img": "https://d6static.dragonfruit.network/ops/ash.png",
     "index": "3:2",
     "actn": "operatorpvp_ash_bonfirewallbreached:3:2",
-    "phrase": "Destruction by Breaching Round",
+    "phrase": "Destructions by Breaching Round",
     "org": "FBI SWAT",
     "type": 1,
     "sub": "Pathfinders",
@@ -103,7 +103,7 @@
     "img": "https://d6static.dragonfruit.network/ops/rook.png",
     "index": "3:3",
     "actn": "operatorpvp_rook_armortakenteammate:3:3",
-    "phrase": "Armor Plate Taken by Teammates",
+    "phrase": "Armor Plates Taken by Teammates",
     "org": "GIGN",
     "type": 2,
     "sub": "Pathfinders",
@@ -198,11 +198,11 @@
     "ord": 18
   },
   {
-    "name": "J�ger",
+    "name": "Jäger",
     "img": "https://d6static.dragonfruit.network/ops/jager.png",
     "index": "4:5",
     "actn": "operatorpvp_jager_gadgetdestroybycatcher:4:5",
-    "phrase": "Gadget Destroyed by Active Defense",
+    "phrase": "Gadgets Destroyed by Active Defense",
     "org": "GSG 9",
     "type": 2,
     "sub": "Pathfinders",
@@ -264,7 +264,7 @@
     "ord": 24
   },
   {
-    "name": "Capit�o",
+    "name": "Capitão",
     "img": "https://d6static.dragonfruit.network/ops/capitao.png",
     "index": "2:8",
     "actn": "operatorpvp_capitao_lethaldartkills:2:8",
@@ -312,7 +312,7 @@
     "img": "https://d6static.dragonfruit.network/ops/jackal.png",
     "index": "2:A",
     "actn": "operatorpvp_cazador_assist_kill:2:A",
-    "phrase": "Eyenox Tracking Assist",
+    "phrase": "Eyenox Tracking Assists",
     "org": "GEO",
     "type": 1,
     "sub": "Y2S1 - Velvet Shell",
@@ -323,7 +323,7 @@
     "img": "https://d6static.dragonfruit.network/ops/mira.png",
     "index": "3:A",
     "actn": "operatorpvp_black_mirror_gadget_deployed:3:A",
-    "phrase": "Black Mirror Deployed",
+    "phrase": "Black Mirrors Deployed",
     "org": "GEO",
     "type": 2,
     "sub": "Y2S1 - Velvet Shell",
@@ -506,7 +506,7 @@
     "ord": 46
   },
   {
-    "name": "N�kk",
+    "name": "Nøkk",
     "img": "https://d6static.dragonfruit.network/ops/nokk.png",
     "index": "2:13",
     "actn": "operatorpvp_nokk_observationtooldeceived:2:13",
@@ -543,7 +543,7 @@
     "img": "https://d6static.dragonfruit.network/ops/goyo.png",
     "index": "2:15",
     "actn": "operatorpvp_goyo_volcandetonate:2:15",
-    "phrase": "Volc�ns Detonated by Your Team",
+    "phrase": "Volcáns Detonated by Your Team",
     "org": "FUERZAS ESPECIALES",
     "type": 2,
     "sub": "Y4S3 - Ember Rise",
@@ -592,5 +592,27 @@
     "type": 2,
     "sub": "Y5S1 - Void Edge",
     "ord": 54
+  },
+  {
+    "name": "Ace",
+    "img": "https://d6static.dragonfruit.network/ops/ace.png",
+    "index": "",
+    "actn": "",
+    "phrase": "",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y5S2 - Steel Wave",
+    "ord": 55
+  },
+  {
+    "name": "Melusi",
+    "img": "https://d6static.dragonfruit.network/ops/melusi.png",
+    "index": "",
+    "actn": "",
+    "phrase": "",
+    "org": "ITF",
+    "type": 2,
+    "sub": "Y5S2 - Steel Wave",
+    "ord": 56
   }
 ]
