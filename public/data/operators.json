@@ -1,60 +1,5 @@
 [
   {
-    "index": "1:1",
-    "name": "SAS Recruit",
-    "type": 0,
-    "img": "https://d6static.dragonfruit.network/ops/recruit-blue.png",
-    "org": "SAS",
-    "sub": "Pathfinders",
-    "actn": null,
-    "phrase": null,
-    "ord": 1
-  },
-  {
-    "index": "1:2",
-    "name": "FBI Recruit",
-    "type": 0,
-    "img": "https://d6static.dragonfruit.network/ops/recruit-orange.png",
-    "org": "FBI SWAT",
-    "sub": "Pathfinders",
-    "actn": null,
-    "phrase": null,
-    "ord": 2
-  },
-  {
-    "index": "1:3",
-    "name": "GIGN Recruit",
-    "type": 0,
-    "img": "https://d6static.dragonfruit.network/ops/recruit-green.png",
-    "org": "GIGN",
-    "sub": "Pathfinders",
-    "actn": null,
-    "phrase": null,
-    "ord": 3
-  },
-  {
-    "index": "1:4",
-    "name": "Spetsnaz Recruit",
-    "type": 0,
-    "img": "https://d6static.dragonfruit.network/ops/recruit-red.png",
-    "org": "SPETSNAZ",
-    "sub": "Pathfinders",
-    "actn": null,
-    "phrase": null,
-    "ord": 4
-  },
-  {
-    "index": "1:5",
-    "name": "GSG9 Recruit",
-    "type": 0,
-    "img": "https://d6static.dragonfruit.network/ops/recruit-yellow.png",
-    "org": "GSG9",
-    "sub": "Pathfinders",
-    "actn": null,
-    "phrase": null,
-    "ord": 5
-  },
-  {
     "name": "Smoke",
     "img": "https://d6static.dragonfruit.network/ops/smoke.png",
     "index": "2:1",
@@ -63,7 +8,7 @@
     "org": "SAS",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 6
+    "ord": 1
   },
   {
     "name": "Mute",
@@ -74,7 +19,7 @@
     "org": "SAS",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 7
+    "ord": 2
   },
   {
     "name": "Sledge",
@@ -85,7 +30,7 @@
     "org": "SAS",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 8
+    "ord": 3
   },
   {
     "name": "Thatcher",
@@ -96,7 +41,7 @@
     "org": "SAS",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 9
+    "ord": 4
   },
   {
     "name": "Castle",
@@ -107,7 +52,7 @@
     "org": "FBI SWAT",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 10
+    "ord": 5
   },
   {
     "name": "Ash",
@@ -118,7 +63,7 @@
     "org": "FBI SWAT",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 11
+    "ord": 6
   },
   {
     "name": "Pulse",
@@ -129,7 +74,7 @@
     "org": "FBI SWAT",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 12
+    "ord": 7
   },
   {
     "name": "Thermite",
@@ -140,7 +85,7 @@
     "org": "FBI SWAT",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 13
+    "ord": 8
   },
   {
     "name": "Doc",
@@ -151,7 +96,7 @@
     "org": "GIGN",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 14
+    "ord": 9
   },
   {
     "name": "Rook",
@@ -162,7 +107,7 @@
     "org": "GIGN",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 15
+    "ord": 10
   },
   {
     "name": "Twitch",
@@ -173,7 +118,7 @@
     "org": "GIGN",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 16
+    "ord": 11
   },
   {
     "name": "Montagne",
@@ -184,7 +129,7 @@
     "org": "GIGN",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 17
+    "ord": 12
   },
   {
     "name": "Glaz",
@@ -195,7 +140,7 @@
     "org": "SPETSNAZ",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 18
+    "ord": 13
   },
   {
     "name": "Fuze",
@@ -206,7 +151,7 @@
     "org": "SPETSNAZ",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 19
+    "ord": 14
   },
   {
     "name": "Kapkan",
@@ -217,7 +162,7 @@
     "org": "SPETSNAZ",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 20
+    "ord": 15
   },
   {
     "name": "Tachanka",
@@ -228,7 +173,7 @@
     "org": "SPETSNAZ",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 21
+    "ord": 16
   },
   {
     "name": "Blitz",
@@ -239,7 +184,7 @@
     "org": "GSG 9",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 22
+    "ord": 17
   },
   {
     "name": "IQ",
@@ -250,10 +195,10 @@
     "org": "GSG 9",
     "type": 1,
     "sub": "Pathfinders",
-    "ord": 23
+    "ord": 18
   },
   {
-    "name": "Jäger",
+    "name": "J�ger",
     "img": "https://d6static.dragonfruit.network/ops/jager.png",
     "index": "4:5",
     "actn": "operatorpvp_jager_gadgetdestroybycatcher:4:5",
@@ -261,7 +206,7 @@
     "org": "GSG 9",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 24
+    "ord": 19
   },
   {
     "name": "Bandit",
@@ -272,7 +217,7 @@
     "org": "GSG 9",
     "type": 2,
     "sub": "Pathfinders",
-    "ord": 25
+    "ord": 20
   },
   {
     "name": "Buck",
@@ -283,7 +228,7 @@
     "org": "JTF2",
     "type": 1,
     "sub": "Y1S1 - Black Ice",
-    "ord": 26
+    "ord": 21
   },
   {
     "name": "Frost",
@@ -294,7 +239,7 @@
     "org": "JTF2",
     "type": 2,
     "sub": "Y1S1 - Black Ice",
-    "ord": 27
+    "ord": 22
   },
   {
     "name": "Blackbeard",
@@ -305,7 +250,7 @@
     "org": "NAVY SEAL",
     "type": 1,
     "sub": "Y1S2 - Dust Line",
-    "ord": 28
+    "ord": 23
   },
   {
     "name": "Valkyrie",
@@ -316,10 +261,10 @@
     "org": "NAVY SEAL",
     "type": 2,
     "sub": "Y1S2 - Dust Line",
-    "ord": 29
+    "ord": 24
   },
   {
-    "name": "Capitão",
+    "name": "Capit�o",
     "img": "https://d6static.dragonfruit.network/ops/capitao.png",
     "index": "2:8",
     "actn": "operatorpvp_capitao_lethaldartkills:2:8",
@@ -327,7 +272,7 @@
     "org": "BOPE",
     "type": 1,
     "sub": "Y1S3 - Skull Rain",
-    "ord": 30
+    "ord": 25
   },
   {
     "name": "Caveira",
@@ -338,7 +283,7 @@
     "org": "BOPE",
     "type": 2,
     "sub": "Y1S3 - Skull Rain",
-    "ord": 31
+    "ord": 26
   },
   {
     "name": "Hibana",
@@ -349,7 +294,7 @@
     "org": "SAT",
     "type": 1,
     "sub": "Y1S4 - Red Crow",
-    "ord": 32
+    "ord": 27
   },
   {
     "name": "Echo",
@@ -360,7 +305,7 @@
     "org": "SAT",
     "type": 2,
     "sub": "Y1S4 - Red Crow",
-    "ord": 33
+    "ord": 28
   },
   {
     "name": "Jackal",
@@ -371,7 +316,7 @@
     "org": "GEO",
     "type": 1,
     "sub": "Y2S1 - Velvet Shell",
-    "ord": 34
+    "ord": 29
   },
   {
     "name": "Mira",
@@ -382,7 +327,7 @@
     "org": "GEO",
     "type": 2,
     "sub": "Y2S1 - Velvet Shell",
-    "ord": 35
+    "ord": 30
   },
   {
     "name": "Ying",
@@ -393,7 +338,7 @@
     "org": "SDU",
     "type": 1,
     "sub": "Y2S3 - Blood Orchid",
-    "ord": 36
+    "ord": 31
   },
   {
     "name": "Lesion",
@@ -404,7 +349,7 @@
     "org": "SDU",
     "type": 2,
     "sub": "Y2S3 - Blood Orchid",
-    "ord": 37
+    "ord": 32
   },
   {
     "name": "Ela",
@@ -415,7 +360,7 @@
     "org": "GROM",
     "type": 2,
     "sub": "Y2S3 - Blood Orchid",
-    "ord": 38
+    "ord": 33
   },
   {
     "name": "Zofia",
@@ -426,7 +371,7 @@
     "org": "GROM",
     "type": 1,
     "sub": "Y2S4 - White Noise",
-    "ord": 39
+    "ord": 34
   },
   {
     "name": "Vigil",
@@ -437,7 +382,7 @@
     "org": "707th SMB",
     "type": 2,
     "sub": "Y2S4 - White Noise",
-    "ord": 40
+    "ord": 35
   },
   {
     "name": "Dokkaebi",
@@ -448,7 +393,7 @@
     "org": "707th SMB",
     "type": 1,
     "sub": "Y2S4 - White Noise",
-    "ord": 41
+    "ord": 36
   },
   {
     "name": "Lion",
@@ -459,7 +404,7 @@
     "org": "CBRN THREAT UNIT",
     "type": 1,
     "sub": "Y3S1 - Chimera",
-    "ord": 42
+    "ord": 37
   },
   {
     "name": "Finka",
@@ -470,7 +415,7 @@
     "org": "CBRN THREAT UNIT",
     "type": 1,
     "sub": "Y3S1 - Chimera",
-    "ord": 43
+    "ord": 38
   },
   {
     "name": "Maestro",
@@ -481,7 +426,7 @@
     "org": "GIS",
     "type": 2,
     "sub": "Y3S2 - Para Bellum",
-    "ord": 44
+    "ord": 39
   },
   {
     "name": "Alibi",
@@ -492,7 +437,7 @@
     "org": "GIS",
     "type": 2,
     "sub": "Y3S2 - Para Bellum",
-    "ord": 45
+    "ord": 40
   },
   {
     "name": "Maverick",
@@ -503,7 +448,7 @@
     "org": "GSUTR",
     "type": 1,
     "sub": "Y3S3 - Grim Sky",
-    "ord": 46
+    "ord": 41
   },
   {
     "name": "Clash",
@@ -514,7 +459,7 @@
     "org": "GSUTR",
     "type": 2,
     "sub": "Y3S3 - Grim Sky",
-    "ord": 47
+    "ord": 42
   },
   {
     "name": "Nomad",
@@ -525,7 +470,7 @@
     "org": "GIGR",
     "type": 1,
     "sub": "Y3S4 - Wind Bastion",
-    "ord": 48
+    "ord": 43
   },
   {
     "name": "Kaid",
@@ -536,18 +481,7 @@
     "org": "GIGR",
     "type": 2,
     "sub": "Y3S4 - Wind Bastion",
-    "ord": 49
-  },
-  {
-    "name": "Mozzie",
-    "img": "https://d6static.dragonfruit.network/ops/mozzie.png",
-    "index": "2:12",
-    "actn": "operatorpvp_mozzie_droneshacked:2:12",
-    "phrase": "Drones Hacked",
-    "org": "SASR",
-    "type": 2,
-    "sub": "Y4S1 - Burnt Horizon",
-    "ord": 50
+    "ord": 44
   },
   {
     "name": "Gridlock",
@@ -558,10 +492,21 @@
     "org": "SASR",
     "type": 1,
     "sub": "Y4S1 - Burnt Horizon",
-    "ord": 51
+    "ord": 45
   },
   {
-    "name": "Nøkk",
+    "name": "Mozzie",
+    "img": "https://d6static.dragonfruit.network/ops/mozzie.png",
+    "index": "2:12",
+    "actn": "operatorpvp_mozzie_droneshacked:2:12",
+    "phrase": "Drones Hacked",
+    "org": "SASR",
+    "type": 2,
+    "sub": "Y4S1 - Burnt Horizon",
+    "ord": 46
+  },
+  {
+    "name": "N�kk",
     "img": "https://d6static.dragonfruit.network/ops/nokk.png",
     "index": "2:13",
     "actn": "operatorpvp_nokk_observationtooldeceived:2:13",
@@ -569,7 +514,7 @@
     "org": "JAEGER CORPS",
     "type": 1,
     "sub": "Y4S2 - Phantom Sight",
-    "ord": 52
+    "ord": 47
   },
   {
     "name": "Warden",
@@ -580,18 +525,18 @@
     "org": "SECRET SERVICE",
     "type": 2,
     "sub": "Y4S2 - Phantom Sight",
-    "ord": 53
+    "ord": 48
   },
   {
     "name": "Goyo",
     "img": "https://d6static.dragonfruit.network/ops/goyo.png",
     "index": "2:15",
     "actn": "operatorpvp_goyo_volcandetonate:2:15",
-    "phrase": "Volcáns Detonated by Your Team",
+    "phrase": "Volc�ns Detonated by Your Team",
     "org": "FUERZAS ESPECIALES",
     "type": 2,
     "sub": "Y4S3 - Ember Rise",
-    "ord": 54
+    "ord": 49
   },
   {
     "name": "Amaru",
@@ -602,7 +547,7 @@
     "org": "APCA",
     "type": 1,
     "sub": "Y4S3 - Ember Rise",
-    "ord": 55
+    "ord": 50
   },
   {
     "name": "Kali",
@@ -613,7 +558,7 @@
     "org": "NIGHTHAVEN",
     "type": 1,
     "sub": "Y4S4 - Shifting Tides",
-    "ord": 56
+    "ord": 51
   },
   {
     "name": "Wamai",
@@ -624,7 +569,7 @@
     "org": "NIGHTHAVEN",
     "type": 2,
     "sub": "Y4S4 - Shifting Tides",
-    "ord": 57
+    "ord": 52
   },
   {
     "name": "Oryx",
@@ -635,7 +580,7 @@
     "org": "GIGR (Unofficially)",
     "type": 2,
     "sub": "Y5S1 - Void Edge",
-    "ord": 58
+    "ord": 53
   },
   {
     "name": "Iana",
@@ -646,6 +591,6 @@
     "org": "REU",
     "type": 1,
     "sub": "Y5S1 - Void Edge",
-    "ord": 59
+    "ord": 54
   }
 ]
