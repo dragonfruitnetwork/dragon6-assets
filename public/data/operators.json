@@ -352,17 +352,6 @@
     "ord": 32
   },
   {
-    "name": "Ela",
-    "img": "https://d6static.dragonfruit.network/ops/ela.png",
-    "index": "2:C",
-    "actn": "operatorpvp_concussionmine_detonate:2:C",
-    "phrase": "Grzmot Mines Detonated",
-    "org": "GROM",
-    "type": 2,
-    "sub": "Y2S3 - Blood Orchid",
-    "ord": 33
-  },
-  {
     "name": "Zofia",
     "img": "https://d6static.dragonfruit.network/ops/zofia.png",
     "index": "3:C",
@@ -371,18 +360,18 @@
     "org": "GROM",
     "type": 1,
     "sub": "Y2S4 - White Noise",
-    "ord": 34
+    "ord": 33
   },
   {
-    "name": "Vigil",
-    "img": "https://d6static.dragonfruit.network/ops/vigil.png",
-    "index": "3:D",
-    "actn": "operatorpvp_attackerdrone_diminishedrealitymode:3:D",
-    "phrase": "Drones Deceived",
-    "org": "707th SMB",
+    "name": "Ela",
+    "img": "https://d6static.dragonfruit.network/ops/ela.png",
+    "index": "2:C",
+    "actn": "operatorpvp_concussionmine_detonate:2:C",
+    "phrase": "Grzmot Mines Detonated",
+    "org": "GROM",
     "type": 2,
-    "sub": "Y2S4 - White Noise",
-    "ord": 35
+    "sub": "Y2S3 - Blood Orchid",
+    "ord": 34
   },
   {
     "name": "Dokkaebi",
@@ -392,6 +381,17 @@
     "phrase": "Camera Hacks",
     "org": "707th SMB",
     "type": 1,
+    "sub": "Y2S4 - White Noise",
+    "ord": 35
+  },
+  {
+    "name": "Vigil",
+    "img": "https://d6static.dragonfruit.network/ops/vigil.png",
+    "index": "3:D",
+    "actn": "operatorpvp_attackerdrone_diminishedrealitymode:3:D",
+    "phrase": "Drones Deceived",
+    "org": "707th SMB",
+    "type": 2,
     "sub": "Y2S4 - White Noise",
     "ord": 36
   },
@@ -418,22 +418,22 @@
     "ord": 38
   },
   {
-    "name": "Maestro",
-    "img": "https://d6static.dragonfruit.network/ops/maestro.png",
-    "index": "2:F",
-    "actn": "operatorpvp_barrage_killswithturret:2:F",
-    "phrase": "Enemies Killed by Evil Eye",
+    "name": "Alibi",
+    "img": "https://d6static.dragonfruit.network/ops/alibi.png",
+    "index": "3:F",
+    "actn": "operatorpvp_deceiver_revealedattackers:3:F",
+    "phrase": "Enemies Tricked by Prisma",
     "org": "GIS",
     "type": 2,
     "sub": "Y3S2 - Para Bellum",
     "ord": 39
   },
   {
-    "name": "Alibi",
-    "img": "https://d6static.dragonfruit.network/ops/alibi.png",
-    "index": "3:F",
-    "actn": "operatorpvp_deceiver_revealedattackers:3:F",
-    "phrase": "Enemies Tricked by Prisma",
+    "name": "Maestro",
+    "img": "https://d6static.dragonfruit.network/ops/maestro.png",
+    "index": "2:F",
+    "actn": "operatorpvp_barrage_killswithturret:2:F",
+    "phrase": "Enemies Killed by Evil Eye",
     "org": "GIS",
     "type": 2,
     "sub": "Y3S2 - Para Bellum",
@@ -528,17 +528,6 @@
     "ord": 48
   },
   {
-    "name": "Goyo",
-    "img": "https://d6static.dragonfruit.network/ops/goyo.png",
-    "index": "2:15",
-    "actn": "operatorpvp_goyo_volcandetonate:2:15",
-    "phrase": "Volc�ns Detonated by Your Team",
-    "org": "FUERZAS ESPECIALES",
-    "type": 2,
-    "sub": "Y4S3 - Ember Rise",
-    "ord": 49
-  },
-  {
     "name": "Amaru",
     "img": "https://d6static.dragonfruit.network/ops/amaru.png",
     "index": "2:16",
@@ -546,6 +535,17 @@
     "phrase": "Total Distance Reeled",
     "org": "APCA",
     "type": 1,
+    "sub": "Y4S3 - Ember Rise",
+    "ord": 49
+  },
+  {
+    "name": "Goyo",
+    "img": "https://d6static.dragonfruit.network/ops/goyo.png",
+    "index": "2:15",
+    "actn": "operatorpvp_goyo_volcandetonate:2:15",
+    "phrase": "Volc�ns Detonated by Your Team",
+    "org": "FUERZAS ESPECIALES",
+    "type": 2,
     "sub": "Y4S3 - Ember Rise",
     "ord": 50
   },
@@ -572,17 +572,6 @@
     "ord": 52
   },
   {
-    "name": "Oryx",
-    "img": "https://d6static.dragonfruit.network/ops/oryx.png",
-    "index": "2:18",
-    "actn": "operatorpvp_oryx_killsafterdash:2:18",
-    "phrase": "Kills after Remah Dashes",
-    "org": "GIGR (Unofficially)",
-    "type": 2,
-    "sub": "Y5S1 - Void Edge",
-    "ord": 53
-  },
-  {
     "name": "Iana",
     "img": "https://d6static.dragonfruit.network/ops/iana.png",
     "index": "2:19",
@@ -590,6 +579,17 @@
     "phrase": "Kills after using Replicator",
     "org": "REU",
     "type": 1,
+    "sub": "Y5S1 - Void Edge",
+    "ord": 53
+  },
+  {
+    "name": "Oryx",
+    "img": "https://d6static.dragonfruit.network/ops/oryx.png",
+    "index": "2:18",
+    "actn": "operatorpvp_oryx_killsafterdash:2:18",
+    "phrase": "Kills after Remah Dashes",
+    "org": "GIGR (Unofficially)",
+    "type": 2,
     "sub": "Y5S1 - Void Edge",
     "ord": 54
   }
