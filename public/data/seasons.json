@@ -96,5 +96,12 @@
     "year": 5,
     "season": 2,
     "accent": "#7da3b0"
+  },
+  {
+    "id": 19,
+    "operation": "Shadow Legacy",
+    "year": 5,
+    "season": 3,
+    "accent": "#454545"
   }
 ]
