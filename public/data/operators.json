@@ -614,5 +614,16 @@
     "type": 2,
     "sub": "Y5S2 - Steel Wave",
     "ord": 56
+  },
+  {
+    "name": "Zero",
+    "img": "https://d6static.dragonfruit.network/ops/zero.png",
+    "index": "",
+    "actn": "",
+    "phrase": "",
+    "org": "",
+    "type": 1,
+    "sub": "Y5S3 - Shadow Legacy",
+    "ord": 57
   }
 ]
