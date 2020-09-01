@@ -1,0 +1,24 @@
+name: Publish
+
+on:
+  release:
+    types:
+      - published
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+
+      - name: Install Firebase Tools
+        run: npm install -g firebase-tools
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Publish
+        run: firebase deploy --token ${{ secrtes.FIREBASE_KET }} --project "dragon6-224813"
+        if: github.repository == "dragonfruitnetwork/Dragon6-Assets"
