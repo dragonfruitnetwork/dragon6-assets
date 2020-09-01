@@ -21,4 +21,3 @@ jobs:
 
       - name: Publish
         run: firebase deploy --token "${{ secrets.FIREBASE_KEY }}" --project "dragon6-224813"
-        if: "github.repository == dragonfruitnetwork/Dragon6-Assets"
