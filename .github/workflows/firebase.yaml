@@ -20,5 +20,5 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Publish
-        run: firebase deploy --token ${{ secrtes.FIREBASE_KET }} --project "dragon6-224813"
+        run: firebase deploy --token "${{ secrets.FIREBASE_KET }}" --project "dragon6-224813"
         if: github.repository == "dragonfruitnetwork/Dragon6-Assets"
