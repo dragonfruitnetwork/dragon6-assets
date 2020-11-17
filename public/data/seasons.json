@@ -103,5 +103,12 @@
     "year": 5,
     "season": 3,
     "accent": "#454545"
+  },
+  {
+    "id": 20,
+    "operation": "Neon Dawn",
+    "year": 5,
+    "season": 4,
+    "accent": "#e91e63"
   }
 ]
