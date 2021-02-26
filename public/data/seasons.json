@@ -110,5 +110,12 @@
     "year": 5,
     "season": 4,
     "accent": "#e91e63"
+  },
+  {
+    "id": 21,
+    "operation": "Crimson Heist",
+    "year": 6,
+    "season": 1,
+    "accent": "#9a131f"
   }
 ]
