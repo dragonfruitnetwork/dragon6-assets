@@ -634,5 +634,14 @@
     "type": 2,
     "sub": "Y5S4 - Neon Dawn",
     "ord": 58
+  },
+  {
+    "name": "Flores",
+    "img": "https://d6static.dragonfruit.network/ops/flores.png",
+    "index": "3:18",
+    "org": "UNAFFILIATED",
+    "type": 1,
+    "sub": "Y6S1 - Crimson Heist",
+    "ord": 59
   }
 ]
