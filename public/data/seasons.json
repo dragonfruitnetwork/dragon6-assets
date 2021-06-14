@@ -117,5 +117,12 @@
     "year": 6,
     "season": 1,
     "accent": "#9a131f"
+  },
+  {
+    "id": 22,
+    "operation": "North Star",
+    "year": 6,
+    "season": 2,
+    "accent": "#2fb6da"
   }
 ]
