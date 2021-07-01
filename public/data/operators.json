@@ -643,5 +643,14 @@
     "type": 1,
     "sub": "Y6S1 - Crimson Heist",
     "ord": 59
+  },
+  {
+    "name": "Thunderbird",
+    "img": "https://d6static.dragonfruit.network/ops/thunderbird.png",
+    "index": "1:1C",
+    "org": "STAR-NET Aviation",
+    "type": 2,
+    "sub": "Y6S2 - North Star",
+    "ord": 60
   }
 ]
