@@ -14,9 +14,8 @@ jobs:
       
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.0
-        if: github.repository_owner == 'dragonfruitnetwork'
         with:
           branch: live
-          folder: ${{ env.GITHUB_WORKSPACE }}/public
+          folder: public
           git-config-name: "Yuna"
           git-config-email: "inbox@dragonfruit.network"
