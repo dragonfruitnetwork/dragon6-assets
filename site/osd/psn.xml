@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Dragon6 (PSN)</ShortName>
+  <Description>Dragon6 PlayStation Account Search</Description>
+  <Tags>dragon6 psn playstation ps4 ps5 stats siege</Tags>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="https://dragon6.dragonfruit.network/Stats/PSN/?q={searchTerms}"></Url>
+</OpenSearchDescription>
