@@ -124,5 +124,12 @@
     "year": 6,
     "season": 2,
     "accent": "#2fb6da"
+  },
+  {
+    "id": 23,
+    "operation": "Crystal Guard",
+    "year": 6,
+    "season": 3,
+    "accent": "#784586"
   }
 ]

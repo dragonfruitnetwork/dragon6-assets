@@ -652,5 +652,14 @@
     "type": 2,
     "sub": "Y6S2 - North Star",
     "ord": 60
+  },
+  {
+    "name": "Osa",
+    "img": "https://d6static.dragonfruit.network/ops/osa.png",
+    "index": "6:17",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y6S3 - Crystal Guard",
+    "ord": 61
   }
 ]
