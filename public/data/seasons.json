@@ -131,5 +131,12 @@
     "year": 6,
     "season": 3,
     "accent": "#784586"
-  }
+  },
+  {
+    "id": 24,
+    "operation": "High Calibre",
+    "year": 6,
+    "season": 4,
+    "accent": "#625411"
+  } 
 ]
