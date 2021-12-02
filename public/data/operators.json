@@ -661,5 +661,14 @@
     "type": 1,
     "sub": "Y6S3 - Crystal Guard",
     "ord": 61
+  },
+  {
+    "name": "Thorn",
+    "img": "https://d6static.dragonfruit.network/ops/thorn.png",
+    "index": "",
+    "org": "GARDA ERU",
+    "type": 2,
+    "sub": "Y6S4 - High Calibre",
+    "ord": 62
   }
 ]
