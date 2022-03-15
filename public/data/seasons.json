@@ -138,5 +138,12 @@
     "year": 6,
     "season": 4,
     "accent": "#625411"
+  },
+  {
+    "id": 26,
+    "operation": "Demon Veil",
+    "year": 7,
+    "season": 1,
+    "accent": "#bf9f43"
   } 
 ]
