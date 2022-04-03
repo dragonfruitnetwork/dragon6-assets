@@ -1,5 +1,6 @@
 [
   {
+    "id": "sledge",
     "name": "Sledge",
     "img": "https://d6static.dragonfruit.network/ops/sledge.png",
     "org": "SAS",
@@ -8,6 +9,7 @@
     "ord": 1
   },
   {
+    "id": "thatcher",
     "name": "Thatcher",
     "img": "https://d6static.dragonfruit.network/ops/thatcher.png",
     "org": "SAS",
@@ -16,6 +18,7 @@
     "ord": 2
   },
   {
+    "id": "smoke",
     "name": "Smoke",
     "img": "https://d6static.dragonfruit.network/ops/smoke.png",
     "org": "SAS",
@@ -24,6 +27,7 @@
     "ord": 3
   },
   {
+    "id": "mute",
     "name": "Mute",
     "img": "https://d6static.dragonfruit.network/ops/mute.png",
     "org": "SAS",
@@ -32,6 +36,7 @@
     "ord": 4
   },
   {
+    "id": "ash",
     "name": "Ash",
     "img": "https://d6static.dragonfruit.network/ops/ash.png",
     "org": "FBI SWAT",
@@ -40,6 +45,7 @@
     "ord": 5
   },
   {
+    "id": "thermite",
     "name": "Thermite",
     "img": "https://d6static.dragonfruit.network/ops/thermite.png",
     "org": "FBI SWAT",
@@ -48,6 +54,7 @@
     "ord": 6
   },
   {
+    "id": "pulse",
     "name": "Pulse",
     "img": "https://d6static.dragonfruit.network/ops/pulse.png",
     "org": "FBI SWAT",
@@ -56,6 +63,7 @@
     "ord": 7
   },
   {
+    "id": "castle",
     "name": "Castle",
     "img": "https://d6static.dragonfruit.network/ops/castle.png",
     "org": "FBI SWAT",
@@ -64,6 +72,7 @@
     "ord": 8
   },
   {
+    "id": "twitch",
     "name": "Twitch",
     "img": "https://d6static.dragonfruit.network/ops/twitch.png",
     "org": "GIGN",
@@ -72,6 +81,7 @@
     "ord": 9
   },
   {
+    "id": "montagne",
     "name": "Montagne",
     "img": "https://d6static.dragonfruit.network/ops/montagne.png",
     "org": "GIGN",
@@ -80,6 +90,7 @@
     "ord": 10
   },
   {
+    "id": "doc",
     "name": "Doc",
     "img": "https://d6static.dragonfruit.network/ops/doc.png",
     "org": "GIGN",
@@ -88,6 +99,7 @@
     "ord": 11
   },
   {
+    "id": "rook",
     "name": "Rook",
     "img": "https://d6static.dragonfruit.network/ops/rook.png",
     "org": "GIGN",
@@ -96,6 +108,7 @@
     "ord": 12
   },
   {
+    "id": "glaz",
     "name": "Glaz",
     "img": "https://d6static.dragonfruit.network/ops/glaz.png",
     "org": "SPETSNAZ",
@@ -104,6 +117,7 @@
     "ord": 13
   },
   {
+    "id": "fuze",
     "name": "Fuze",
     "img": "https://d6static.dragonfruit.network/ops/fuze.png",
     "org": "SPETSNAZ",
@@ -112,6 +126,7 @@
     "ord": 14
   },
   {
+    "id": "kapkan",
     "name": "Kapkan",
     "img": "https://d6static.dragonfruit.network/ops/kapkan.png",
     "org": "SPETSNAZ",
@@ -120,6 +135,7 @@
     "ord": 15
   },
   {
+    "id": "tachanka",
     "name": "Tachanka",
     "img": "https://d6static.dragonfruit.network/ops/tachanka.png",
     "org": "SPETSNAZ",
@@ -128,6 +144,7 @@
     "ord": 16
   },
   {
+    "id": "blitz",
     "name": "Blitz",
     "img": "https://d6static.dragonfruit.network/ops/blitz.png",
     "org": "GSG 9",
@@ -136,6 +153,7 @@
     "ord": 17
   },
   {
+    "id": "iq",
     "name": "IQ",
     "img": "https://d6static.dragonfruit.network/ops/iq.png",
     "org": "GSG 9",
@@ -144,6 +162,7 @@
     "ord": 18
   },
   {
+    "id": "jager",
     "name": "Jäger",
     "img": "https://d6static.dragonfruit.network/ops/jager.png",
     "org": "GSG 9",
@@ -152,6 +171,7 @@
     "ord": 19
   },
   {
+    "id": "bandit",
     "name": "Bandit",
     "img": "https://d6static.dragonfruit.network/ops/bandit.png",
     "org": "GSG 9",
@@ -160,6 +180,7 @@
     "ord": 20
   },
   {
+    "id": "buck",
     "name": "Buck",
     "img": "https://d6static.dragonfruit.network/ops/buck.png",
     "org": "JTF2",
@@ -168,6 +189,7 @@
     "ord": 21
   },
   {
+    "id": "frost",
     "name": "Frost",
     "img": "https://d6static.dragonfruit.network/ops/frost.png",
     "org": "JTF2",
@@ -176,6 +198,7 @@
     "ord": 22
   },
   {
+    "id": "blackbeard",
     "name": "Blackbeard",
     "img": "https://d6static.dragonfruit.network/ops/blackbeard.png",
     "org": "NAVY SEAL",
@@ -184,6 +207,7 @@
     "ord": 23
   },
   {
+    "id": "valkyrie",
     "name": "Valkyrie",
     "img": "https://d6static.dragonfruit.network/ops/valkyrie.png",
     "org": "NAVY SEAL",
@@ -192,6 +216,7 @@
     "ord": 24
   },
   {
+    "id": "capitao",
     "name": "Capitão",
     "img": "https://d6static.dragonfruit.network/ops/capitao.png",
     "org": "BOPE",
@@ -200,6 +225,7 @@
     "ord": 25
   },
   {
+    "id": "caveira",
     "name": "Caveira",
     "img": "https://d6static.dragonfruit.network/ops/caveira.png",
     "org": "BOPE",
@@ -208,6 +234,7 @@
     "ord": 26
   },
   {
+    "id": "hibana",
     "name": "Hibana",
     "img": "https://d6static.dragonfruit.network/ops/hibana.png",
     "org": "SAT",
@@ -216,6 +243,7 @@
     "ord": 27
   },
   {
+    "id": "echo",
     "name": "Echo",
     "img": "https://d6static.dragonfruit.network/ops/echo.png",
     "org": "SAT",
@@ -224,6 +252,7 @@
     "ord": 28
   },
   {
+    "id": "jackal",
     "name": "Jackal",
     "img": "https://d6static.dragonfruit.network/ops/jackal.png",
     "org": "GEO",
@@ -232,6 +261,7 @@
     "ord": 29
   },
   {
+    "id": "mira",
     "name": "Mira",
     "img": "https://d6static.dragonfruit.network/ops/mira.png",
     "org": "GEO",
@@ -240,6 +270,7 @@
     "ord": 30
   },
   {
+    "id": "ying",
     "name": "Ying",
     "img": "https://d6static.dragonfruit.network/ops/ying.png",
     "org": "SDU",
@@ -248,6 +279,7 @@
     "ord": 31
   },
   {
+    "id": "lesion",
     "name": "Lesion",
     "img": "https://d6static.dragonfruit.network/ops/lesion.png",
     "org": "SDU",
@@ -256,6 +288,7 @@
     "ord": 32
   },
   {
+    "id": "zofia",
     "name": "Zofia",
     "img": "https://d6static.dragonfruit.network/ops/zofia.png",
     "org": "GROM",
@@ -264,6 +297,7 @@
     "ord": 33
   },
   {
+    "id": "ela",
     "name": "Ela",
     "img": "https://d6static.dragonfruit.network/ops/ela.png",
     "org": "GROM",
@@ -272,6 +306,7 @@
     "ord": 34
   },
   {
+    "id": "dokkaebi",
     "name": "Dokkaebi",
     "img": "https://d6static.dragonfruit.network/ops/dokkaebi.png",
     "org": "707th SMB",
@@ -280,6 +315,7 @@
     "ord": 35
   },
   {
+    "id": "vigil",
     "name": "Vigil",
     "img": "https://d6static.dragonfruit.network/ops/vigil.png",
     "org": "707th SMB",
@@ -288,6 +324,7 @@
     "ord": 36
   },
   {
+    "id": "lion",
     "name": "Lion",
     "img": "https://d6static.dragonfruit.network/ops/lion.png",
     "org": "CBRN THREAT UNIT",
@@ -296,6 +333,7 @@
     "ord": 37
   },
   {
+    "id": "finka",
     "name": "Finka",
     "img": "https://d6static.dragonfruit.network/ops/finka.png",
     "org": "CBRN THREAT UNIT",
@@ -304,6 +342,7 @@
     "ord": 38
   },
   {
+    "id": "alibi",
     "name": "Alibi",
     "img": "https://d6static.dragonfruit.network/ops/alibi.png",
     "org": "GIS",
@@ -312,6 +351,7 @@
     "ord": 39
   },
   {
+    "id": "maestro",
     "name": "Maestro",
     "img": "https://d6static.dragonfruit.network/ops/maestro.png",
     "org": "GIS",
@@ -320,6 +360,7 @@
     "ord": 40
   },
   {
+    "id": "maverick",
     "name": "Maverick",
     "img": "https://d6static.dragonfruit.network/ops/maverick.png",
     "org": "GSUTR",
@@ -328,6 +369,7 @@
     "ord": 41
   },
   {
+    "id": "clash",
     "name": "Clash",
     "img": "https://d6static.dragonfruit.network/ops/clash.png",
     "org": "GSUTR",
@@ -336,6 +378,7 @@
     "ord": 42
   },
   {
+    "id": "nomad",
     "name": "Nomad",
     "img": "https://d6static.dragonfruit.network/ops/nomad.png",
     "org": "GIGR",
@@ -344,6 +387,7 @@
     "ord": 43
   },
   {
+    "id": "kaid",
     "name": "Kaid",
     "img": "https://d6static.dragonfruit.network/ops/kaid.png",
     "org": "GIGR",
@@ -352,6 +396,7 @@
     "ord": 44
   },
   {
+    "id": "gridlock",
     "name": "Gridlock",
     "img": "https://d6static.dragonfruit.network/ops/gridlock.png",
     "org": "SASR",
@@ -360,6 +405,7 @@
     "ord": 45
   },
   {
+    "id": "mozzie",
     "name": "Mozzie",
     "img": "https://d6static.dragonfruit.network/ops/mozzie.png",
     "org": "SASR",
@@ -368,6 +414,7 @@
     "ord": 46
   },
   {
+    "id": "nokk",
     "name": "Nøkk",
     "img": "https://d6static.dragonfruit.network/ops/nokk.png",
     "org": "JAEGER CORPS",
@@ -376,6 +423,7 @@
     "ord": 47
   },
   {
+    "id": "warden",
     "name": "Warden",
     "img": "https://d6static.dragonfruit.network/ops/warden.png",
     "org": "SECRET SERVICE",
@@ -384,6 +432,7 @@
     "ord": 48
   },
   {
+    "id": "amaru",
     "name": "Amaru",
     "img": "https://d6static.dragonfruit.network/ops/amaru.png",
     "org": "APCA",
@@ -392,6 +441,7 @@
     "ord": 49
   },
   {
+    "id": "goyo",
     "name": "Goyo",
     "img": "https://d6static.dragonfruit.network/ops/goyo.png",
     "org": "FUERZAS ESPECIALES",
@@ -400,6 +450,7 @@
     "ord": 50
   },
   {
+    "id": "kali",
     "name": "Kali",
     "img": "https://d6static.dragonfruit.network/ops/kali.png",
     "org": "NIGHTHAVEN",
@@ -408,6 +459,7 @@
     "ord": 51
   },
   {
+    "id": "wamai",
     "name": "Wamai",
     "img": "https://d6static.dragonfruit.network/ops/wamai.png",
     "org": "NIGHTHAVEN",
@@ -416,6 +468,7 @@
     "ord": 52
   },
   {
+    "id": "iana",
     "name": "Iana",
     "img": "https://d6static.dragonfruit.network/ops/iana.png",
     "org": "REU",
@@ -424,6 +477,7 @@
     "ord": 53
   },
   {
+    "id": "oryx",
     "name": "Oryx",
     "img": "https://d6static.dragonfruit.network/ops/oryx.png",
     "org": "GIGR (Unofficially)",
@@ -432,6 +486,7 @@
     "ord": 54
   },
   {
+    "id": "ace",
     "name": "Ace",
     "img": "https://d6static.dragonfruit.network/ops/ace.png",
     "org": "NIGHTHAVEN",
@@ -440,6 +495,7 @@
     "ord": 55
   },
   {
+    "id": "melusi",
     "name": "Melusi",
     "img": "https://d6static.dragonfruit.network/ops/melusi.png",
     "org": "ITF",
@@ -448,6 +504,7 @@
     "ord": 56
   },
   {
+    "id": "zero",
     "name": "Zero",
     "img": "https://d6static.dragonfruit.network/ops/zero.png",
     "org": "ROS",
@@ -456,6 +513,7 @@
     "ord": 57
   },
   {
+    "id": "aruni",
     "name": "Aruni",
     "img": "https://d6static.dragonfruit.network/ops/aruni.png",
     "org": "NIGHTHAVEN",
@@ -464,6 +522,7 @@
     "ord": 58
   },
   {
+    "id": "flores",
     "name": "Flores",
     "img": "https://d6static.dragonfruit.network/ops/flores.png",
     "org": "UNAFFILIATED",
@@ -472,6 +531,7 @@
     "ord": 59
   },
   {
+    "id": "thunderbird",
     "name": "Thunderbird",
     "img": "https://d6static.dragonfruit.network/ops/thunderbird.png",
     "org": "STAR-NET Aviation",
@@ -480,11 +540,30 @@
     "ord": 60
   },
   {
+    "id": "osa",
     "name": "Osa",
     "img": "https://d6static.dragonfruit.network/ops/osa.png",
     "org": "NIGHTHAVEN",
     "type": 1,
     "sub": "Y6S3 - Crystal Guard",
     "ord": 61
+  },
+  {
+    "id": "thorn",
+    "name": "Thorn",
+    "img": "https://d6static.dragonfruit.network/ops/thorn.png",
+    "org": "Garda ERU",
+    "type": 2,
+    "sub": "Y6S4 - High Calibre",
+    "ord": 62
+  },
+  {
+    "id": "azami",
+    "name": "Azami",
+    "img": "https://d6static.dragonfruit.network/ops/azami.png",
+    "org": "Tokyo MPD (formely)",
+    "type": 2,
+    "sub": "Y7S1 - Demon Veil",
+    "ord": 63
   }
 ]
