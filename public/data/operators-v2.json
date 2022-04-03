@@ -1,0 +1,569 @@
+[
+  {
+    "id": "sledge",
+    "name": "Sledge",
+    "img": "https://d6static.dragonfruit.network/ops/sledge.png",
+    "org": "SAS",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 1
+  },
+  {
+    "id": "thatcher",
+    "name": "Thatcher",
+    "img": "https://d6static.dragonfruit.network/ops/thatcher.png",
+    "org": "SAS",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 2
+  },
+  {
+    "id": "smoke",
+    "name": "Smoke",
+    "img": "https://d6static.dragonfruit.network/ops/smoke.png",
+    "org": "SAS",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 3
+  },
+  {
+    "id": "mute",
+    "name": "Mute",
+    "img": "https://d6static.dragonfruit.network/ops/mute.png",
+    "org": "SAS",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 4
+  },
+  {
+    "id": "ash",
+    "name": "Ash",
+    "img": "https://d6static.dragonfruit.network/ops/ash.png",
+    "org": "FBI SWAT",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 5
+  },
+  {
+    "id": "thermite",
+    "name": "Thermite",
+    "img": "https://d6static.dragonfruit.network/ops/thermite.png",
+    "org": "FBI SWAT",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 6
+  },
+  {
+    "id": "pulse",
+    "name": "Pulse",
+    "img": "https://d6static.dragonfruit.network/ops/pulse.png",
+    "org": "FBI SWAT",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 7
+  },
+  {
+    "id": "castle",
+    "name": "Castle",
+    "img": "https://d6static.dragonfruit.network/ops/castle.png",
+    "org": "FBI SWAT",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 8
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "img": "https://d6static.dragonfruit.network/ops/twitch.png",
+    "org": "GIGN",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 9
+  },
+  {
+    "id": "montagne",
+    "name": "Montagne",
+    "img": "https://d6static.dragonfruit.network/ops/montagne.png",
+    "org": "GIGN",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 10
+  },
+  {
+    "id": "doc",
+    "name": "Doc",
+    "img": "https://d6static.dragonfruit.network/ops/doc.png",
+    "org": "GIGN",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 11
+  },
+  {
+    "id": "rook",
+    "name": "Rook",
+    "img": "https://d6static.dragonfruit.network/ops/rook.png",
+    "org": "GIGN",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 12
+  },
+  {
+    "id": "glaz",
+    "name": "Glaz",
+    "img": "https://d6static.dragonfruit.network/ops/glaz.png",
+    "org": "SPETSNAZ",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 13
+  },
+  {
+    "id": "fuze",
+    "name": "Fuze",
+    "img": "https://d6static.dragonfruit.network/ops/fuze.png",
+    "org": "SPETSNAZ",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 14
+  },
+  {
+    "id": "kapkan",
+    "name": "Kapkan",
+    "img": "https://d6static.dragonfruit.network/ops/kapkan.png",
+    "org": "SPETSNAZ",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 15
+  },
+  {
+    "id": "tachanka",
+    "name": "Tachanka",
+    "img": "https://d6static.dragonfruit.network/ops/tachanka.png",
+    "org": "SPETSNAZ",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 16
+  },
+  {
+    "id": "blitz",
+    "name": "Blitz",
+    "img": "https://d6static.dragonfruit.network/ops/blitz.png",
+    "org": "GSG 9",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 17
+  },
+  {
+    "id": "iq",
+    "name": "IQ",
+    "img": "https://d6static.dragonfruit.network/ops/iq.png",
+    "org": "GSG 9",
+    "type": 1,
+    "sub": "Pathfinders",
+    "ord": 18
+  },
+  {
+    "id": "jager",
+    "name": "Jäger",
+    "img": "https://d6static.dragonfruit.network/ops/jager.png",
+    "org": "GSG 9",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 19
+  },
+  {
+    "id": "bandit",
+    "name": "Bandit",
+    "img": "https://d6static.dragonfruit.network/ops/bandit.png",
+    "org": "GSG 9",
+    "type": 2,
+    "sub": "Pathfinders",
+    "ord": 20
+  },
+  {
+    "id": "buck",
+    "name": "Buck",
+    "img": "https://d6static.dragonfruit.network/ops/buck.png",
+    "org": "JTF2",
+    "type": 1,
+    "sub": "Y1S1 - Black Ice",
+    "ord": 21
+  },
+  {
+    "id": "frost",
+    "name": "Frost",
+    "img": "https://d6static.dragonfruit.network/ops/frost.png",
+    "org": "JTF2",
+    "type": 2,
+    "sub": "Y1S1 - Black Ice",
+    "ord": 22
+  },
+  {
+    "id": "blackbeard",
+    "name": "Blackbeard",
+    "img": "https://d6static.dragonfruit.network/ops/blackbeard.png",
+    "org": "NAVY SEAL",
+    "type": 1,
+    "sub": "Y1S2 - Dust Line",
+    "ord": 23
+  },
+  {
+    "id": "valkyrie",
+    "name": "Valkyrie",
+    "img": "https://d6static.dragonfruit.network/ops/valkyrie.png",
+    "org": "NAVY SEAL",
+    "type": 2,
+    "sub": "Y1S2 - Dust Line",
+    "ord": 24
+  },
+  {
+    "id": "capitao",
+    "name": "Capitão",
+    "img": "https://d6static.dragonfruit.network/ops/capitao.png",
+    "org": "BOPE",
+    "type": 1,
+    "sub": "Y1S3 - Skull Rain",
+    "ord": 25
+  },
+  {
+    "id": "caveira",
+    "name": "Caveira",
+    "img": "https://d6static.dragonfruit.network/ops/caveira.png",
+    "org": "BOPE",
+    "type": 2,
+    "sub": "Y1S3 - Skull Rain",
+    "ord": 26
+  },
+  {
+    "id": "hibana",
+    "name": "Hibana",
+    "img": "https://d6static.dragonfruit.network/ops/hibana.png",
+    "org": "SAT",
+    "type": 1,
+    "sub": "Y1S4 - Red Crow",
+    "ord": 27
+  },
+  {
+    "id": "echo",
+    "name": "Echo",
+    "img": "https://d6static.dragonfruit.network/ops/echo.png",
+    "org": "SAT",
+    "type": 2,
+    "sub": "Y1S4 - Red Crow",
+    "ord": 28
+  },
+  {
+    "id": "jackal",
+    "name": "Jackal",
+    "img": "https://d6static.dragonfruit.network/ops/jackal.png",
+    "org": "GEO",
+    "type": 1,
+    "sub": "Y2S1 - Velvet Shell",
+    "ord": 29
+  },
+  {
+    "id": "mira",
+    "name": "Mira",
+    "img": "https://d6static.dragonfruit.network/ops/mira.png",
+    "org": "GEO",
+    "type": 2,
+    "sub": "Y2S1 - Velvet Shell",
+    "ord": 30
+  },
+  {
+    "id": "ying",
+    "name": "Ying",
+    "img": "https://d6static.dragonfruit.network/ops/ying.png",
+    "org": "SDU",
+    "type": 1,
+    "sub": "Y2S3 - Blood Orchid",
+    "ord": 31
+  },
+  {
+    "id": "lesion",
+    "name": "Lesion",
+    "img": "https://d6static.dragonfruit.network/ops/lesion.png",
+    "org": "SDU",
+    "type": 2,
+    "sub": "Y2S3 - Blood Orchid",
+    "ord": 32
+  },
+  {
+    "id": "zofia",
+    "name": "Zofia",
+    "img": "https://d6static.dragonfruit.network/ops/zofia.png",
+    "org": "GROM",
+    "type": 1,
+    "sub": "Y2S4 - White Noise",
+    "ord": 33
+  },
+  {
+    "id": "ela",
+    "name": "Ela",
+    "img": "https://d6static.dragonfruit.network/ops/ela.png",
+    "org": "GROM",
+    "type": 2,
+    "sub": "Y2S3 - Blood Orchid",
+    "ord": 34
+  },
+  {
+    "id": "dokkaebi",
+    "name": "Dokkaebi",
+    "img": "https://d6static.dragonfruit.network/ops/dokkaebi.png",
+    "org": "707th SMB",
+    "type": 1,
+    "sub": "Y2S4 - White Noise",
+    "ord": 35
+  },
+  {
+    "id": "vigil",
+    "name": "Vigil",
+    "img": "https://d6static.dragonfruit.network/ops/vigil.png",
+    "org": "707th SMB",
+    "type": 2,
+    "sub": "Y2S4 - White Noise",
+    "ord": 36
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "img": "https://d6static.dragonfruit.network/ops/lion.png",
+    "org": "CBRN THREAT UNIT",
+    "type": 1,
+    "sub": "Y3S1 - Chimera",
+    "ord": 37
+  },
+  {
+    "id": "finka",
+    "name": "Finka",
+    "img": "https://d6static.dragonfruit.network/ops/finka.png",
+    "org": "CBRN THREAT UNIT",
+    "type": 1,
+    "sub": "Y3S1 - Chimera",
+    "ord": 38
+  },
+  {
+    "id": "alibi",
+    "name": "Alibi",
+    "img": "https://d6static.dragonfruit.network/ops/alibi.png",
+    "org": "GIS",
+    "type": 2,
+    "sub": "Y3S2 - Para Bellum",
+    "ord": 39
+  },
+  {
+    "id": "maestro",
+    "name": "Maestro",
+    "img": "https://d6static.dragonfruit.network/ops/maestro.png",
+    "org": "GIS",
+    "type": 2,
+    "sub": "Y3S2 - Para Bellum",
+    "ord": 40
+  },
+  {
+    "id": "maverick",
+    "name": "Maverick",
+    "img": "https://d6static.dragonfruit.network/ops/maverick.png",
+    "org": "GSUTR",
+    "type": 1,
+    "sub": "Y3S3 - Grim Sky",
+    "ord": 41
+  },
+  {
+    "id": "clash",
+    "name": "Clash",
+    "img": "https://d6static.dragonfruit.network/ops/clash.png",
+    "org": "GSUTR",
+    "type": 2,
+    "sub": "Y3S3 - Grim Sky",
+    "ord": 42
+  },
+  {
+    "id": "nomad",
+    "name": "Nomad",
+    "img": "https://d6static.dragonfruit.network/ops/nomad.png",
+    "org": "GIGR",
+    "type": 1,
+    "sub": "Y3S4 - Wind Bastion",
+    "ord": 43
+  },
+  {
+    "id": "kaid",
+    "name": "Kaid",
+    "img": "https://d6static.dragonfruit.network/ops/kaid.png",
+    "org": "GIGR",
+    "type": 2,
+    "sub": "Y3S4 - Wind Bastion",
+    "ord": 44
+  },
+  {
+    "id": "gridlock",
+    "name": "Gridlock",
+    "img": "https://d6static.dragonfruit.network/ops/gridlock.png",
+    "org": "SASR",
+    "type": 1,
+    "sub": "Y4S1 - Burnt Horizon",
+    "ord": 45
+  },
+  {
+    "id": "mozzie",
+    "name": "Mozzie",
+    "img": "https://d6static.dragonfruit.network/ops/mozzie.png",
+    "org": "SASR",
+    "type": 2,
+    "sub": "Y4S1 - Burnt Horizon",
+    "ord": 46
+  },
+  {
+    "id": "nokk",
+    "name": "Nøkk",
+    "img": "https://d6static.dragonfruit.network/ops/nokk.png",
+    "org": "JAEGER CORPS",
+    "type": 1,
+    "sub": "Y4S2 - Phantom Sight",
+    "ord": 47
+  },
+  {
+    "id": "warden",
+    "name": "Warden",
+    "img": "https://d6static.dragonfruit.network/ops/warden.png",
+    "org": "SECRET SERVICE",
+    "type": 2,
+    "sub": "Y4S2 - Phantom Sight",
+    "ord": 48
+  },
+  {
+    "id": "amaru",
+    "name": "Amaru",
+    "img": "https://d6static.dragonfruit.network/ops/amaru.png",
+    "org": "APCA",
+    "type": 1,
+    "sub": "Y4S3 - Ember Rise",
+    "ord": 49
+  },
+  {
+    "id": "goyo",
+    "name": "Goyo",
+    "img": "https://d6static.dragonfruit.network/ops/goyo.png",
+    "org": "FUERZAS ESPECIALES",
+    "type": 2,
+    "sub": "Y4S3 - Ember Rise",
+    "ord": 50
+  },
+  {
+    "id": "kali",
+    "name": "Kali",
+    "img": "https://d6static.dragonfruit.network/ops/kali.png",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y4S4 - Shifting Tides",
+    "ord": 51
+  },
+  {
+    "id": "wamai",
+    "name": "Wamai",
+    "img": "https://d6static.dragonfruit.network/ops/wamai.png",
+    "org": "NIGHTHAVEN",
+    "type": 2,
+    "sub": "Y4S4 - Shifting Tides",
+    "ord": 52
+  },
+  {
+    "id": "iana",
+    "name": "Iana",
+    "img": "https://d6static.dragonfruit.network/ops/iana.png",
+    "org": "REU",
+    "type": 1,
+    "sub": "Y5S1 - Void Edge",
+    "ord": 53
+  },
+  {
+    "id": "oryx",
+    "name": "Oryx",
+    "img": "https://d6static.dragonfruit.network/ops/oryx.png",
+    "org": "GIGR (Unofficially)",
+    "type": 2,
+    "sub": "Y5S1 - Void Edge",
+    "ord": 54
+  },
+  {
+    "id": "ace",
+    "name": "Ace",
+    "img": "https://d6static.dragonfruit.network/ops/ace.png",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y5S2 - Steel Wave",
+    "ord": 55
+  },
+  {
+    "id": "melusi",
+    "name": "Melusi",
+    "img": "https://d6static.dragonfruit.network/ops/melusi.png",
+    "org": "ITF",
+    "type": 2,
+    "sub": "Y5S2 - Steel Wave",
+    "ord": 56
+  },
+  {
+    "id": "zero",
+    "name": "Zero",
+    "img": "https://d6static.dragonfruit.network/ops/zero.png",
+    "org": "ROS",
+    "type": 1,
+    "sub": "Y5S3 - Shadow Legacy",
+    "ord": 57
+  },
+  {
+    "id": "aruni",
+    "name": "Aruni",
+    "img": "https://d6static.dragonfruit.network/ops/aruni.png",
+    "org": "NIGHTHAVEN",
+    "type": 2,
+    "sub": "Y5S4 - Neon Dawn",
+    "ord": 58
+  },
+  {
+    "id": "flores",
+    "name": "Flores",
+    "img": "https://d6static.dragonfruit.network/ops/flores.png",
+    "org": "UNAFFILIATED",
+    "type": 1,
+    "sub": "Y6S1 - Crimson Heist",
+    "ord": 59
+  },
+  {
+    "id": "thunderbird",
+    "name": "Thunderbird",
+    "img": "https://d6static.dragonfruit.network/ops/thunderbird.png",
+    "org": "STAR-NET Aviation",
+    "type": 2,
+    "sub": "Y6S2 - North Star",
+    "ord": 60
+  },
+  {
+    "id": "osa",
+    "name": "Osa",
+    "img": "https://d6static.dragonfruit.network/ops/osa.png",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y6S3 - Crystal Guard",
+    "ord": 61
+  },
+  {
+    "id": "thorn",
+    "name": "Thorn",
+    "img": "https://d6static.dragonfruit.network/ops/thorn.png",
+    "org": "Garda ERU",
+    "type": 2,
+    "sub": "Y6S4 - High Calibre",
+    "ord": 62
+  },
+  {
+    "id": "azami",
+    "name": "Azami",
+    "img": "https://d6static.dragonfruit.network/ops/azami.png",
+    "org": "Tokyo MPD (formely)",
+    "type": 2,
+    "sub": "Y7S1 - Demon Veil",
+    "ord": 63
+  }
+]
