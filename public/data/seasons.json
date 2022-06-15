@@ -145,5 +145,12 @@
     "year": 7,
     "season": 1,
     "accent": "#bf9f43"
-  } 
+  },
+  {
+    "id": 26,
+    "operation": "Vector Glare",
+    "year": 7,
+    "season": 2,
+    "accent": "#12ac27"
+  }
 ]
