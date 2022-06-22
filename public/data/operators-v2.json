@@ -565,5 +565,14 @@
     "type": 2,
     "sub": "Y7S1 - Demon Veil",
     "ord": 63
+  },
+  {
+    "id": "sens",
+    "name": "Sens",
+    "img": "https://d6static.dragonfruit.network/ops/sens.png",
+    "org": "SFG",
+    "type": 1,
+    "sub": "Y7S2 - Vector Glare",
+    "ord": 64
   }
 ]
