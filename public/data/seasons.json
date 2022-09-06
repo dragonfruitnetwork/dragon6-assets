@@ -152,5 +152,12 @@
     "year": 7,
     "season": 2,
     "accent": "#12ac27"
+  },
+  {
+    "id": 27,
+    "operation": "Brutal Swarm",
+    "year": 7,
+    "season": 3,
+    "accent": "#d8c729"
   }
 ]
