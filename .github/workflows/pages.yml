@@ -12,10 +12,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.0
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          branch: live
-          folder: public
-          git-config-name: "Yuna"
-          git-config-email: "inbox@dragonfruit.network"
+          path: ${{ env.BUILD_OUTPUT }}/public
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main
