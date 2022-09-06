@@ -22,7 +22,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ${{ env.BUILD_OUTPUT }}/public
+          path: ./public
           
       - name: Deploy to GitHub Pages
         id: deployment
