@@ -14,31 +14,25 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-
-  operator-icons:
+  images:
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-    
-      - name: Install ImageMagick
-        run: sudo apt install imagemagick
         
-      - name: Convert SVG to PNG
-        run: |
-          cd public/ops
-          mogrify -background none -resize 300x300 -antialias -format png *.svg
+      - name: Convert Operator SVGs
+        working-directory: ${{ github.workspace }}/public/ops
+        run: for f in *.svg; do convert -resize 300x300 -background none $f "$(basename $f .svg).png"; done;
           
       - name: Cache Assets
-        id: cache
         uses: actions/cache@v3
         with:
           path: ./public/ops
           key: d6-assets-ops-${{ github.sha }}
 
   firebase:
-    needs: operator-icons
+    needs: images
     runs-on: ubuntu-latest
     
     steps:
@@ -64,7 +58,7 @@ jobs:
         run: firebase deploy --token "${{ secrets.FIREBASE_KEY }}" --project "dragon6-224813"
 
   pages:
-    needs: operator-icons
+    needs: images
     runs-on: ubuntu-latest
     
     environment:
