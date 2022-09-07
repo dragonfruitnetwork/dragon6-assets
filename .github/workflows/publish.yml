@@ -1,0 +1,41 @@
+name: Publish
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+on:
+  release:
+    types: [ published ]
+
+concurrency:
+  group: "publish"
+  cancel-in-progress: true
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    
+    environment:
+      name: production
+      url: https://d6static.dragonfruit.network
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Process Assets
+        run: ./process-assets.sh
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: './public'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@main
