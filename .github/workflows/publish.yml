@@ -10,56 +10,11 @@ on:
     types: [ published ]
 
 concurrency:
-  group: "pages"
+  group: "publish"
   cancel-in-progress: true
 
 jobs:
-  images:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Convert Operator SVGs
-        run: |
-          cd ./public/ops
-          for f in *.svg; do convert -resize 300x300 -background none $f "$(basename $f .svg).png"; done;
-          
-      - name: Cache Assets
-        uses: actions/cache@v3
-        with:
-          path: ./public/ops
-          key: d6-assets-ops-${{ github.sha }}
-
-  firebase:
-    needs: images
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '16'
-
-      - name: Install Firebase Tools
-        run: npm install -g firebase-tools
-
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Retrieve Operator Icons
-        uses: actions/cache@v3
-        with:
-          path: ./public/ops
-          key: d6-assets-ops-${{ github.sha }}
-
-      - name: Publish
-        if: github.repository_owner == 'dragonfruitnetwork'
-        run: firebase deploy --token "${{ secrets.FIREBASE_KEY }}" --project "dragon6-224813"
-
   pages:
-    needs: images
     runs-on: ubuntu-latest
     
     environment:
@@ -70,11 +25,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Retrieve Operator Icons
-        uses: actions/cache@v3
-        with:
-          path: ./public/ops
-          key: d6-assets-ops-${{ github.sha }}
+      - name: Process Assets
+        run: ./process-assets.sh
       
       - name: Setup Pages
         uses: actions/configure-pages@v2
