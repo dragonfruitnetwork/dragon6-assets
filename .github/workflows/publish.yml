@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   pages:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     
     environment:
       name: production
@@ -26,16 +26,13 @@ jobs:
         uses: actions/checkout@v3
         
       - name: Setup ImageMagick
-        run: |
-          sudo apt remove imagemagick
-          git clone https://github.com/SoftCreatR/imei
-          cd imei
-          chmod +x imei.sh
-          sudo ./imei.sh
-          identify -version
+        run: choco install imagemagick
+        
+      - name: Setup PowerShell Policy
+        run: Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
         
       - name: Process Assets
-        run: ./process-assets.sh
+        run: ./process-assets.ps1
       
       - name: Setup Pages
         uses: actions/configure-pages@v2
