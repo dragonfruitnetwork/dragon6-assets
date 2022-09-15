@@ -25,6 +25,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
+      - name: Setup ImageMagick
+        run: |
+          sudo apt remove imagemagick
+          git clone https://github.com/SoftCreatR/imei
+          cd imei
+          chmod +x imei.sh
+          sudo ./imei.sh
+          identify -version
+        
       - name: Process Assets
         run: ./process-assets.sh
       
