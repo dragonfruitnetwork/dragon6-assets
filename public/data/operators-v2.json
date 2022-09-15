@@ -574,5 +574,14 @@
     "type": 1,
     "sub": "Y7S2 - Vector Glare",
     "ord": 64
+  },
+  {
+    "id": "grim",
+    "name": "Grim",
+    "img": "https://d6static.dragonfruit.network/ops/grim.png",
+    "org": "NIGHTHAVEN",
+    "type": 1,
+    "sub": "Y7S3 - Brutal Swarm",
+    "ord": 65
   }
 ]
