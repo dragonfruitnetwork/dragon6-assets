@@ -159,5 +159,12 @@
     "year": 7,
     "season": 3,
     "accent": "#d8c729"
+  },
+  {
+    "id": 28,
+    "operation": "Solar Raid",
+    "year": 7,
+    "season": 4,
+    "accent": "#c03419"
   }
 ]
