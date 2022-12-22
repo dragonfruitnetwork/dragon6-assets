@@ -583,5 +583,14 @@
     "type": 1,
     "sub": "Y7S3 - Brutal Swarm",
     "ord": 65
+  },
+  {
+    "id": "solis",
+    "name": "Solis",
+    "img": "https://d6static.dragonfruit.network/ops/solis.png",
+    "org": "GHOSTEYES",
+    "type": 2,
+    "sub": "Y7S4 - Solar Raid",
+    "ord": 66
   }
 ]
