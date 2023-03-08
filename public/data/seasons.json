@@ -166,5 +166,12 @@
     "year": 7,
     "season": 4,
     "accent": "#c03419"
+  },
+  {
+    "id": 29,
+    "operation": "Commanding Force",
+    "year": 8,
+    "season": 1,
+    "accent": "#45abf3"
   }
 ]
